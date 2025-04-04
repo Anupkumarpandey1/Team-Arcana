@@ -37,7 +37,9 @@
     <h3>2. Use Your Preferred IDE Locally</h3>
     <p>If you prefer working locally, follow these steps:</p>
     <pre><code># Clone the repository
-git clone &lt;YOUR_GIT_URL&gt;
+    <p>git clone &lt;YOUR_GIT_URL&gt;
+</section>
+
 
 # Navigate to the project directory
 cd &lt;YOUR_PROJECT_NAME&gt;
