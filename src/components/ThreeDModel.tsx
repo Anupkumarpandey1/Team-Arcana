@@ -58,14 +58,15 @@ const PenModel = () => {
         </mesh>
         
         {/* Pen Tip */}
-        <mesh castShadow position={[0, -1.2, 0]}>
-          <coneGeometry args={[0.15, 0.3, 32]} />
-          <meshStandardMaterial 
-            color="#C084FC"
-            metalness={0.7}
-            roughness={0.1}
-          />
-        </mesh>
+        <mesh castShadow position={[0, -1.2, 0]} rotation={[Math.PI, 0, 0]}>
+  <coneGeometry args={[0.15, 0.3, 32]} />
+  <meshStandardMaterial 
+    color="#C084FC"
+    metalness={0.7}
+    roughness={0.1}
+  />
+</mesh>
+
         
         {/* Pen Middle Ring */}
         <mesh castShadow position={[0, 0.3, 0]}>
