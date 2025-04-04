@@ -40,7 +40,7 @@ const LandingSection = ({ onGetStarted }: LandingSectionProps) => {
               Battleground
             </motion.button>
             <motion.a
-              href="https://quiznect-genius.learnflow.app/"
+              href="https://learnflowai2.netlify.app/"
               className="px-6 py-3 border border-gray-300 rounded-full text-gray-700 hover:bg-gray-50 transition-colors"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.98 }}
