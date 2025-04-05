@@ -127,7 +127,6 @@
 
 [![Watch Demo](./Thumbnail.png)](https://drive.google.com/file/d/1Pgj9zV-61x7K8kFtuykCV1mtoxIsI0fo/view?usp=sharing)
 
-📁 [View Demo Video on Google Drive](https://drive.google.com/file/d/1Pgj9zV-61x7K8kFtuykCV1mtoxIsI0fo/view?usp=sharing)
 
 
 ---
