@@ -113,9 +113,10 @@
  
  - *Frontend*: React + TypeScript + Vite
  - *Styling*: Tailwind CSS
- - *AI Integration*: Gemini API (for content summarization, quiz generation, and AI assistant)
+ - *AI Integration*: Gemini API, Youtube transcript, pdf to text conversion (for content summarization, quiz generation, and AI assistant)
  - *Visualization*: Mermaid.js (for creating flowcharts and diagrams)
  - *Real-time Collaboration*: Supabase
+
  
  ---
  
