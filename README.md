@@ -105,7 +105,6 @@ Follow these steps to set up the project locally:
 npm run dev -- --port=5174
 ```
 This command will launch the app on `http://localhost:5174`
-```
 
 You can directly copy and paste this into your `README.md`. Let me know if you want this merged with the earlier full README!
 ## 🧰 Tech Stack
