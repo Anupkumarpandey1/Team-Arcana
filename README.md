@@ -36,12 +36,12 @@ Follow these steps to set up the project locally:
 - A Gemini API key (for AI features)
 
 ### 🚀 Steps
-1. *Clone the Repository for Battleground*
+1.*Clone the Repository for Battleground*
    ```bash
    git clone https://github.com/Anupkumarpandey1/Team-Arcana
    cd learnflow
    ```
-   **Clone the Repository for Barrack **
+   *Clone the Repository for Barrack *
    ```bash
    git clone https://github.com/Rudramani1/BARRACKS.git
    cd learnflow
