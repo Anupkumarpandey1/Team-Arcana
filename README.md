@@ -126,7 +126,12 @@
 
 You can view a demo of our project below:
 
-[![Demo Video](https://drive.google.com/file/d/1Pgj9zV-61x7K8kFtuykCV1mtoxIsI0fo/view?usp=sharing)]
+### 📸 Screenshots / Demo
+
+#### Google Drive Video Demo
+
+[![Watch the video](https://i.imgur.com/dyR9Gx0.png)](https://drive.google.com/file/d/1Pgj9zV-61x7K8kFtuykCV1mtoxIsI0fo/view?usp=sharing)
+
 
 Click on the image above to watch the demo video.
  ---
