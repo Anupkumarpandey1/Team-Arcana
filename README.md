@@ -36,21 +36,20 @@ Follow these steps to set up the project locally:
 - A Gemini API key (for AI features)
 
 ### 🚀 Steps
-
 1. *Clone the Repository for Battleground*
-   bash
+   ```bash
    git clone https://github.com/Anupkumarpandey1/Team-Arcana
    cd learnflow
-   
+   ```
    **Clone the Repository for Barrack **
-   bash
+   ```bash
    git clone https://github.com/Rudramani1/BARRACKS.git
    cd learnflow
-   
+   ```
 3. *Install Dependencies*
-   bash
+   ```bash
    npm install
-   
+   ```
 
 4. *Set up Environment Variables*
 
@@ -61,9 +60,9 @@ Follow these steps to set up the project locally:
    
 
 5. *Run the Development Server*
-   bash
+   ```bash
    npm run dev
-   
+   ```
 
    The application will be running at http://localhost:5173
 
