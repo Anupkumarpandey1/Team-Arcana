@@ -35,7 +35,7 @@ Follow these steps to set up the project locally:
 - Git
 - A Gemini API key (for AI features)
 
-Here’s the properly formatted section for your `README.md` file with Markdown syntax, based on the setup instructions you provided:
+
 
 ### 🛡️ Setting Up Battleground
 
