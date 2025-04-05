@@ -130,7 +130,7 @@ You can view a demo of our project below:
 
 #### Google Drive Video Demo
 
-[![Watch the video](https://i.imgur.com/dyR9Gx0.png)](https://drive.google.com/file/d/1Pgj9zV-61x7K8kFtuykCV1mtoxIsI0fo/view?usp=sharing)
+[![Watch the video]([https://i.imgur.com/dyR9Gx0.png](https://cdn.prod.website-files.com/6262a9705cabe0833039d5c8/65ba8dac0cecc20187a88184_Demo%20videos%20thumbnail.jpeg))](https://drive.google.com/file/d/1Pgj9zV-61x7K8kFtuykCV1mtoxIsI0fo/view?usp=sharing)
 
 
 Click on the image above to watch the demo video.
