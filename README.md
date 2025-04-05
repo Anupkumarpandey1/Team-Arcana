@@ -120,12 +120,13 @@
  
  ---
  
- ### 📸 Screenshots / Demo
+### 📸 Screenshots / Demo
 
-#### Google Drive Video Demo
+#### Video Demo
 
-You can view a demo of our project on Google Drive:
+You can view a demo of our project below:
 
-<iframe src="https://drive.google.com/file/d/1Pgj9zV-61x7K8kFtuykCV1mtoxIsI0fo/view?usp=sharing" width="640" height="480"></iframe>
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
 
----
+Click on the image above to watch the demo video.
+ ---
