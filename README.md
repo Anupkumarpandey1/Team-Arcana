@@ -35,6 +35,9 @@ Follow these steps to set up the project locally:
 - Git
 - A Gemini API key (for AI features)
 
+Here’s the properly formatted section for your `README.md` file with Markdown syntax, based on the setup instructions you provided:
+
+```markdown
 ### 🛡️ Setting Up Battleground
 
 1. **Clone the Repository**:
@@ -42,68 +45,70 @@ Follow these steps to set up the project locally:
    git clone https://github.com/Anupkumarpandey1/Team-Arcana.git
    cd Team-Arcana
    ```
-2. **Install Dependencies**:
 
-```bash
-npm install
-```
+2. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+
 3. **Set Up Environment Variables**:
 
-Create a .env file in the root directory and add your Gemini API key:
-```env
-VITE_GEMINI_API_KEY=your_gemini_api_key_here
-```
+   Create a `.env` file in the root directory and add your Gemini API key:
+   ```env
+   VITE_GEMINI_API_KEY=your_gemini_api_key_here
+   ```
+
 4. **Run the Development Server**:
+   ```bash
+   npm run dev
+   ```
 
+   The application will be running at: [http://localhost:5173](http://localhost:5173)
+
+---
+
+### 🏕️ Setting Up Barrack
+
+1. **Navigate to the Parent Directory** (to avoid nesting repositories):
+   ```bash
+   cd ..
+   ```
+
+2. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Rudramani1/BARRACKS.git
+   cd BARRACKS
+   ```
+
+3. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+
+4. **Set Up Environment Variables**:
+
+   Create a `.env` file in the root directory and add your Gemini API key:
+   ```env
+   VITE_GEMINI_API_KEY=your_gemini_api_key_here
+   ```
+
+5. **Run the Development Server**:
+   ```bash
+   npm run dev
+   ```
+
+   The application will be running at: [http://localhost:5173](http://localhost:5173)
+
+---
+
+> ⚠️ **Note**: Ensure that both applications run on different ports to avoid conflicts. You can start one of them on a different port using:
 ```bash
-npm run dev
-```
-The application will be running at http://localhost:5173.
-
-###🏕️ Setting Up Barrack
-Navigate to the Parent Directory (to avoid nesting repositories):
-
-bash
-Copy
-Edit
-cd ..
-Clone the Repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/Rudramani1/BARRACKS.git
-cd BARRACKS
-Install Dependencies:
-
-bash
-Copy
-Edit
-npm install
-Set Up Environment Variables:
-
-Similarly, create a .env file in the root directory and add your Gemini API key:
-
-env
-Copy
-Edit
-VITE_GEMINI_API_KEY=your_gemini_api_key_here
-Run the Development Server:
-
-bash
-Copy
-Edit
-npm run dev
-The application will be running at http://localhost:5173.
-
-Note: Ensure that both applications run on different ports to avoid conflicts. You can specify a different port when starting the development server by running:
-
-bash
-Copy
-Edit
 npm run dev -- --port=5174
-This command will start the server on port 5174.
+```
+This command will launch the app on `http://localhost:5174`
+```
 
+You can directly copy and paste this into your `README.md`. Let me know if you want this merged with the earlier full README!
 ## 🧰 Tech Stack
 
 - *Frontend*: React + TypeScript + Vite
