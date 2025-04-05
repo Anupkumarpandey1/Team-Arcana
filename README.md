@@ -37,7 +37,6 @@ Follow these steps to set up the project locally:
 
 Here’s the properly formatted section for your `README.md` file with Markdown syntax, based on the setup instructions you provided:
 
-```markdown
 ### 🛡️ Setting Up Battleground
 
 1. **Clone the Repository**:
