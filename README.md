@@ -119,12 +119,7 @@
 
  
  ---
- 
-### 📸 Screenshots / Demo
 
-#### Video Demo
-
-You can view a demo of our project below:
 
  ### 📸 Screenshots / Demo
 
