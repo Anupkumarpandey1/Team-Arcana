@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-*LearnFlow* is an AI-driven educational platform designed to enhance and personalize the learning experience. It comprises two main modules:
+*LearnFlow* is an AI-driven educational platform designed to enhance and personalize the learning experience.It revolutionizes online learning by automating content summarization and interactive study aids. It comprises two main modules:
 
 ### 🛡 1. Battleground
 Transform *YouTube videos, **documents, or **topics* into interactive AI-generated *quizzes*. Features include:
